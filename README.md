@@ -1,7 +1,8 @@
 <h1 align="center">DNA Sequence Analysis</h1>
 
 <p align="center">
-  Sequence analysis of the stored FASTA format is performed by python.Biopython modules are used for easy analysis.
+ This project demonstrates the use of Biopython, a Python library designed for computational biology and bioinformatics, to perform basic DNA sequence analysis.
+The project focuses on analysing nucleotide sequences and extracting biologically meaningful information using Python.
 </p>
 
 <h2>Steps</h2>
