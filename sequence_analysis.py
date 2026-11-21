@@ -3,13 +3,13 @@ from Bio.Seq import Seq
 dna_=("ATGGCAGCATG")
 dna=Seq(dna_)
 
-print(dna.complement()
+print(dna.complement())
       #complementary DNA
 
 print("rna:",dna.transcribe())
-       #mRNA of the sequence 
+       #mRNA 
 
 print("protein:",dna.translate())
-        #protein translated from the sequence 
+        #protein translated 
 
 
